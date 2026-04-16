@@ -63,4 +63,4 @@ This project analyzes supermarket sales data to uncover key business insights re
 * **Top Category:** Food & Beverages (Highest Sales & 7.11 Rating)<br>
 * **Peak Month:** January recorded peak sales of 36.0%<br>
 * **Peak Hour:** 7 PM is the busiest time for sales (12.3%)<br>
-* **Conclusion:** Strategy should focus on female-centric marketing and evening promotions in Naypyitaw,while prioritizing digital payment rewards for maximum growth.<br>
+* **Conclusion:** Strategy should focus on female-centric marketing and evening promotions in Naypyitaw,while prioritizing digital payment        rewards for maximum growth.
