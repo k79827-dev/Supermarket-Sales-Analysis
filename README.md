@@ -48,11 +48,11 @@ This project analyzes supermarket sales data to uncover key business insights re
 ## 📊 Visualizations
 
 ![Sales by City](charts/sales_by_city.PNG)
-![Product Line](charts/sales_by_products_line.png)
-![Payment Method](charts/payment_method_distribution.png)
-![Monthly Sales](charts/monthly_sales.png)
-![Sales by Hour](charts/sales_by_hour.png)
-![Sales by Gender](charts/genderwise_sales.png)
+![Product Line](charts/sales_by_products_line.PNG)
+![Payment Method](charts/payment_method_distribution.PNG)
+![Monthly Sales](charts/monthly_sales.PNG)
+![Sales by Hour](charts/sales_by_hour.PNG)
+![Sales by Gender](charts/genderwise_sales.PNG)
 
 ---
 
@@ -63,4 +63,4 @@ This project analyzes supermarket sales data to uncover key business insights re
 **Top Category**: Food & Beverages (Highest Sales & 7.11 Rating)<br>
 **Peak Month**: January recorded peak sales of 36.0%<br>
 **Peak Hour**: 7 PM is the busiest time for sales (12.3%)<br>
-**Conclusion**: Strategy should focus on female-centric marketing and evening promotions in Naypyitaw, while prioritizing digital payment rewards for maximum growth.
+**Conclusion**: Strategy should focus on female-centric marketing and evening promotions in Naypyitaw,while prioritizing digital payment rewards for maximum growth.
