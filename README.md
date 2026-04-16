@@ -47,7 +47,7 @@ This project analyzes supermarket sales data to uncover key business insights re
 
 ## 📊 Visualizations
 
-![Sales by City](charts/sales_by_city.png)
+![Sales by City](charts/sales_by_city.PNG)
 ![Product Line](charts/sales_by_products_line.png)
 ![Payment Method](charts/payment_method_distribution.png)
 ![Monthly Sales](charts/monthly_sales.png)
@@ -57,10 +57,10 @@ This project analyzes supermarket sales data to uncover key business insights re
 ---
 
 ## 📈 Key Insights
-**Top City**: Naypyitaw leads in both Revenue & Profit (34.2%)
-**Demographics**: Females are the primary shoppers, contributing 60.3% of transactions
-**Payment**: E-wallet is the most preferred payment method (34.5%)
-**Top Category**: Food & Beverages (Highest Sales & 7.11 Rating)
-**Peak Month**: January recorded peak sales of 36.0%
-**Peak Hour**: 7 PM is the busiest time for sales (12.3%)
+**Top City**: Naypyitaw leads in both Revenue & Profit (34.2%) <br>
+**Demographics**: Females are the primary shoppers, contributing 60.3% of transactions<br>
+**Payment**: E-wallet is the most preferred payment method (34.5%)<br>
+**Top Category**: Food & Beverages (Highest Sales & 7.11 Rating)<br>
+**Peak Month**: January recorded peak sales of 36.0%<br>
+**Peak Hour**: 7 PM is the busiest time for sales (12.3%)<br>
 **Conclusion**: Strategy should focus on female-centric marketing and evening promotions in Naypyitaw, while prioritizing digital payment rewards for maximum growth.
